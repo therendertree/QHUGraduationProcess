@@ -22,11 +22,11 @@
 
 注：企业信息（附件4）介绍要包含“国家企业信用信息公示系统”查询公司注册信息。
 
-![实习时间1](.\img\Intern_timeline.png)
+<img src=.\img\Intern_timeline.png />
 
-![实习时间2](.\img\Intern_timeline1.png)
+<img src=.\img\Intern_timeline1.png />
 
-![实习时间3](.\img\Intern_timeline2.png)
+<img src=.\img\Intern_timeline2.png />
 
 大四下学期：参加实习答辩。
 
@@ -76,7 +76,9 @@
 
 答辩小组通常由5个老师组成，其中包含四个评委老师现场打分和一个小组秘书计时，小组内不会包含自己的毕设导师。
 
-![答辩流程](.\img\Oral_defense_process.png)
+<img src=.\img\Oral_defense_process.png />
+
+
 
 ## 离校前的安排
 
